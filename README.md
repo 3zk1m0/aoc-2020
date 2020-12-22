@@ -8,6 +8,8 @@ This repo contains zero-setup environment for [Advent of Code](https://adventofc
 - automatic execution of a challenge code (with reloads),
 - quick utils for testing and reading input from a file.
 
+Original repository by [caderek](https://github.com/caderek/aoc-starter-ts) 
+
  
 ## Installation
 
